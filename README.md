@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-I'm a College Undergrad who lives in the India. I'm learning to code and build digital products. I'm interested in a lot of stuff. I'm passionate about people, the problems they face, and the products that can solve them. I'm interested in technology, business, marketing and design because of their ability to create scalable, sustainable impact.
+I'm a Computer Science Undergrad who lives in the India. I'm learning to code and build digital products. I'm interested in a lot of stuff. I'm passionate about people, the problems they face, and the products that can solve them. I'm interested in technology, business, marketing and design because of their ability to create scalable, sustainable impact.
 
 - 🌱 I use daily:`.html`, `.css`, `.py`, `.js` and `.fig`.
 - 📱 Learning all about **SaaS Products**
@@ -38,3 +38,16 @@ I'm a College Undergrad who lives in the India. I'm learning to code and build d
 
 </details>
 
+------------
+
+<details open>
+ <summary> 😇 <b>My Github Stats</b>: </summary>
+
+<br>
+
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=abhinavvx&show_icons=true&theme=radical&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavvx&hide=css,html&theme=tokyonight">
+</p>
+
+</design>
