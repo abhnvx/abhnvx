@@ -38,7 +38,7 @@ I'm a Computer Science Undergrad who lives in the India. I'm learning to code an
 
 </details>
 
-------------
+---
 
 <details open>
  <summary> 😇 <b>My Github Stats</b>: </summary>
