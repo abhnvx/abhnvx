@@ -21,7 +21,17 @@ I'm a Computer Science Undergrad who lives in the India. I'm learning to code an
 - 🌱 I use daily:`.html`, `.css`, `.py`, `.js` and `.fig`.
 - 📱 Learning all about **SaaS Products**
 - 💬 Ping me about **products**, **branding**, **marketing**, **development**, **design**, **SaaS**
-- ⚡ Fun fact: If you don't know me, it might help to introduce myself by way of two role models of mine: Steve Jobs and Naval Ravikant!"
+- ⚡ Fun fact: If you don't know me, it might help to introduce myself by way of two role models of mine: Steve Jobs and Naval Ravikant!
+
+
+<details open>
+<summary>🤝 <b>🤯 Values<b></summary>
+
+- ⚙️ Ambition. The world is full of cool opportunities and experiences. I love finding them — they make for good memories, loving relationships, and impact.
+- 🤓 Levity. I try not to take myself too seriously; life's too short to not be goofy.
+- 🌎 Purpose. I'm getting better at achieving calm and understanding myself each day. The least I can do is to then spend intentional time helping others and the world.
+
+</details>
 
 <details open>
 <summary>🤝 <b>To connect with me<b></summary>
