@@ -20,7 +20,7 @@ I'm a Computer Science Undergrad who lives in the India. I'm learning to code an
 
 - 🌱 I use daily:`.html`, `.css`, `.py`, `.js` and `.fig`.
 - 📱 Learning all about **SaaS Products**
-- 💬 Ping me about **products**, **branding**, **marketing**, **development**, **design**, **SaaS**
+- 💬 Ping me about **products**, **branding**, **marketing**, **development**, **design** and **saas**
 - ⚡ Fun fact: If you don't know me, it might help to introduce myself by way of two role models of mine: Steve Jobs and Naval Ravikant!
 
 
