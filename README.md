@@ -25,15 +25,6 @@ I'm a Computer Science Undergrad who lives in the India. I'm learning to code an
 
 
 <details open>
-<summary>🤝 <b>🤯 Values<b></summary>
-
-- ⚙️ Ambition. The world is full of cool opportunities and experiences. I love finding them — they make for good memories, loving relationships, and impact.
-- 🤓 Levity. I try not to take myself too seriously; life's too short to not be goofy.
-- 🌎 Purpose. I'm getting better at achieving calm and understanding myself each day. The least I can do is to then spend intentional time helping others and the world.
-
-</details>
-
-<details open>
 <summary>🤝 <b>To connect with me<b></summary>
 
 <p align = "center">
