@@ -34,6 +34,7 @@ I'm a Computer Science Undergrad who lives in the India. I'm learning to code an
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/abheeenav/)
 [![Visits Badge](https://badges.pufler.dev/visits/abhinavvx/abhinavvx?style=for-the-badge&color=blue)](https://github.com/abhinavvx/abhinavvx)
 ![Repos Badge](https://badges.pufler.dev/repos/abhinavvx?style=for-the-badge&color=red)
+[![GitHub followers](https://img.shields.io/github/followers/abhinavvx.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/abhinavvx?tab=followers)
 
 </p>
 
