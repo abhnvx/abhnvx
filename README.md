@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+I'm a College Undergrad who lives in the India. I'm learning to code and build digital products. I'm interested in a lot of stuff. I'm passionate about people, the problems they face, and the products that can solve them. I'm interested in technology, business, marketing and design because of their ability to create scalable, sustainable impact.
+
+- 🌱 I’m currently learning HTML, CSS, Python, and Javascript.
+- 🔭 I’m currently working on creating digital products.
+- 💬 Ask me about Marketing.
+- ⚡ Fun fact: If you don't know me, it might help to introduce myself by way of two role models of mine: Steve Jobs and Naval Ravikant!"
