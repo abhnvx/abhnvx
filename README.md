@@ -29,8 +29,8 @@ I'm a Computer Science Undergrad who lives in the India. I'm learning to code an
 
 <p align = "center">
 
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/abheeeenav) 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/abhinavvx/)
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/abhnvx) 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/abhnvx/)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/abheeenav/)
 [![Visits Badge](https://badges.pufler.dev/visits/abheeeenav/abheeeenav?style=for-the-badge&color=blue)](https://github.com/abheeeenav/abheeeenav)
 ![Repos Badge](https://badges.pufler.dev/repos/abheeeenav?style=for-the-badge&color=red)
