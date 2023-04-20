@@ -16,11 +16,10 @@ Here are some ideas to get you started:
 -->
 
 
-I'm a Computer Science Undergrad who lives in the India. I'm learning to code and build digital products. I'm interested in a lot of stuff. I'm passionate about people, the problems they face, and the products that can solve them. I'm interested in technology, business, marketing and design because of their ability to create scalable, sustainable impact.
+I'm a Product Designer working at Avalon Scenes. At Avalon, we're building a SaaS tool to power communities of the future. Apart from that I'm exploring more of AI, Design & technology on a daily basis.
 
-- 🌱 I use daily:`.html`, `.css`, `.py`, `.js` and `.fig`.
-- 📱 Learning all about **SaaS Products**
-- 💬 Ping me about **products**, **branding**, **marketing**, **development**, **design** and **saas**
+- 🌱 I use daily: `.py`, `.js` and `.fig`.
+- 📱 Learning all about **AI**, **Design**, **Tech**,
 - ⚡ Fun fact: If you don't know me, it might help to introduce myself by way of two role models of mine: Steve Jobs and Naval Ravikant!
 
 
